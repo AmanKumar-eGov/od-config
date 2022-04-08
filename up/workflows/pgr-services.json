@@ -1,0 +1,361 @@
+
+{
+    "tenantId": "pg",
+    "uuid": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+    "businessService": "PGR",
+    "business": "pgr-services",
+    "businessServiceSla": 432000000,
+    "states": [
+        {
+            "auditDetails": {
+                "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "createdTime": 1601881624378,
+                "lastModifiedTime": 1601881624378
+            },
+            "uuid": "a827d874-fdeb-403d-9b10-2437753b1c45",
+            "tenantId": "pg",
+            "businessServiceId": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+            "sla": null,
+            "state": null,
+            "applicationStatus": null,
+            "docUploadRequired": false,
+            "isStartState": true,
+            "isTerminateState": false,
+            "isStateUpdatable": true,
+            "actions": [
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "757c2171-fdde-43af-aa2d-e47e4d2e0ce1",
+                    "tenantId": "pg",
+                    "currentState": "a827d874-fdeb-403d-9b10-2437753b1c45",
+                    "action": "APPLY",
+                    "nextState": "008ab0d5-5522-4d1e-a848-04cb2b1e3e46",
+                    "roles": [
+                        "CITIZEN",
+                        "CSR"
+                    ]
+                }
+            ]
+        },
+        {
+            "auditDetails": {
+                "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "createdTime": 1601881624378,
+                "lastModifiedTime": 1601881624378
+            },
+            "uuid": "008ab0d5-5522-4d1e-a848-04cb2b1e3e46",
+            "tenantId": "pg",
+            "businessServiceId": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+            "sla": null,
+            "state": "PENDINGFORASSIGNMENT",
+            "applicationStatus": "PENDINGFORASSIGNMENT",
+            "docUploadRequired": false,
+            "isStartState": false,
+            "isTerminateState": false,
+            "isStateUpdatable": false,
+            "actions": [
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "f922000e-b744-41f3-8086-7de42f983232",
+                    "tenantId": "pg",
+                    "currentState": "008ab0d5-5522-4d1e-a848-04cb2b1e3e46",
+                    "action": "REJECT",
+                    "nextState": "12aeabba-7245-4acb-8dde-9ee64f6b3cb3",
+                    "roles": [
+                        "GRO",
+                        "DGRO"
+                    ]
+                },
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "07fbef9d-e3d5-4ceb-9443-50e88ea98d35",
+                    "tenantId": "pg",
+                    "currentState": "008ab0d5-5522-4d1e-a848-04cb2b1e3e46",
+                    "action": "ASSIGN",
+                    "nextState": "548abe23-c673-4e42-8851-4e5f9092f0a5",
+                    "roles": [
+                        "GRO",
+                        "DGRO"
+                    ]
+                }
+            ]
+        },
+        {
+            "auditDetails": {
+                "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "createdTime": 1601881624378,
+                "lastModifiedTime": 1601881624378
+            },
+            "uuid": "f6035d92-5e33-4e8b-ad52-071e3ad2419a",
+            "tenantId": "pg",
+            "businessServiceId": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+            "sla": null,
+            "state": "PENDINGFORREASSIGNMENT",
+            "applicationStatus": "PENDINGFORREASSIGNMENT",
+            "docUploadRequired": false,
+            "isStartState": false,
+            "isTerminateState": false,
+            "isStateUpdatable": false,
+            "actions": [
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "1f636e87-8ce4-4dce-89aa-9d187f0301a1",
+                    "tenantId": "pg",
+                    "currentState": "f6035d92-5e33-4e8b-ad52-071e3ad2419a",
+                    "action": "REJECT",
+                    "nextState": "12aeabba-7245-4acb-8dde-9ee64f6b3cb3",
+                    "roles": [
+                        "GRO",
+                        "DGRO"
+                    ]
+                },
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "5666e9c7-2b74-4769-b693-173113cfddfb",
+                    "tenantId": "pg",
+                    "currentState": "f6035d92-5e33-4e8b-ad52-071e3ad2419a",
+                    "action": "ASSIGN",
+                    "nextState": "548abe23-c673-4e42-8851-4e5f9092f0a5",
+                    "roles": [
+                        "GRO",
+                        "DGRO"
+                    ]
+                }
+            ]
+        },
+        {
+            "auditDetails": {
+                "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "createdTime": 1601881624378,
+                "lastModifiedTime": 1601881624378
+            },
+            "uuid": "548abe23-c673-4e42-8851-4e5f9092f0a5",
+            "tenantId": "pg",
+            "businessServiceId": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+            "sla": 259200000,
+            "state": "PENDINGATLME",
+            "applicationStatus": "PENDINGATLME",
+            "docUploadRequired": false,
+            "isStartState": false,
+            "isTerminateState": false,
+            "isStateUpdatable": false,
+            "actions": [
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "8687b6a8-ead6-4181-adee-56c33a3a6c3c",
+                    "tenantId": "pg",
+                    "currentState": "548abe23-c673-4e42-8851-4e5f9092f0a5",
+                    "action": "REASSIGN",
+                    "nextState": "f6035d92-5e33-4e8b-ad52-071e3ad2419a",
+                    "roles": [
+                        "PGR_LME"
+                    ]
+                },
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "27782102-e0e5-4e65-ae4e-2c63def2bb5e",
+                    "tenantId": "pg",
+                    "currentState": "548abe23-c673-4e42-8851-4e5f9092f0a5",
+                    "action": "RESOLVE",
+                    "nextState": "b353ca47-f921-4e99-8f7a-311b439fd410",
+                    "roles": [
+                        "PGR_LME"
+                    ]
+                }
+            ]
+        },
+        {
+            "auditDetails": {
+                "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "createdTime": 1601881624378,
+                "lastModifiedTime": 1601881624378
+            },
+            "uuid": "12aeabba-7245-4acb-8dde-9ee64f6b3cb3",
+            "tenantId": "pg",
+            "businessServiceId": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+            "sla": null,
+            "state": "REJECTED",
+            "applicationStatus": "REJECTED",
+            "docUploadRequired": false,
+            "isStartState": false,
+            "isTerminateState": true,
+            "isStateUpdatable": false,
+            "actions": [
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "a33af959-d32b-4e41-8bb5-45bb461b1e6a",
+                    "tenantId": "pg",
+                    "currentState": "12aeabba-7245-4acb-8dde-9ee64f6b3cb3",
+                    "action": "RATE",
+                    "nextState": "ceb502b8-1295-493b-bcbf-31016680b02d",
+                    "roles": [
+                        "CFC",
+                        "CITIZEN"
+                    ]
+                },
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "5ca45a59-f650-4859-b54c-70e5f4524961",
+                    "tenantId": "pg",
+                    "currentState": "12aeabba-7245-4acb-8dde-9ee64f6b3cb3",
+                    "action": "REOPEN",
+                    "nextState": "008ab0d5-5522-4d1e-a848-04cb2b1e3e46",
+                    "roles": [
+                        "CFC",
+                        "CSR",
+                        "CITIZEN"
+                    ]
+                }
+            ]
+        },
+        {
+            "auditDetails": {
+                "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "createdTime": 1601881624378,
+                "lastModifiedTime": 1601881624378
+            },
+            "uuid": "b353ca47-f921-4e99-8f7a-311b439fd410",
+            "tenantId": "pg",
+            "businessServiceId": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+            "sla": null,
+            "state": "RESOLVED",
+            "applicationStatus": "RESOLVED",
+            "docUploadRequired": false,
+            "isStartState": false,
+            "isTerminateState": true,
+            "isStateUpdatable": false,
+            "actions": [
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "c386e8e7-147d-4f40-9fcf-a8d4edf14432",
+                    "tenantId": "pg",
+                    "currentState": "b353ca47-f921-4e99-8f7a-311b439fd410",
+                    "action": "REOPEN",
+                    "nextState": "008ab0d5-5522-4d1e-a848-04cb2b1e3e46",
+                    "roles": [
+                        "CFC",
+                        "CSR",
+                        "CITIZEN"
+                    ]
+                },
+                {
+                    "auditDetails": {
+                        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                        "createdTime": 1601881624378,
+                        "lastModifiedTime": 1601881624378
+                    },
+                    "uuid": "d3588b2f-d098-4ea6-bd4d-1f2f6469aed0",
+                    "tenantId": "pg",
+                    "currentState": "b353ca47-f921-4e99-8f7a-311b439fd410",
+                    "action": "RATE",
+                    "nextState": "a61e0da7-de2d-42d0-82d7-a9a2dbbaff42",
+                    "roles": [
+                        "CFC",
+                        "CITIZEN"
+                    ]
+                }
+            ]
+        },
+        {
+            "auditDetails": {
+                "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "createdTime": 1601881624378,
+                "lastModifiedTime": 1601881624378
+            },
+            "uuid": "ceb502b8-1295-493b-bcbf-31016680b02d",
+            "tenantId": "pg",
+            "businessServiceId": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+            "sla": null,
+            "state": "CLOSEDAFTERREJECTION",
+            "applicationStatus": "CLOSEDAFTERREJECTION",
+            "docUploadRequired": false,
+            "isStartState": false,
+            "isTerminateState": true,
+            "isStateUpdatable": false,
+            "actions": null
+        },
+        {
+            "auditDetails": {
+                "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+                "createdTime": 1601881624378,
+                "lastModifiedTime": 1601881624378
+            },
+            "uuid": "a61e0da7-de2d-42d0-82d7-a9a2dbbaff42",
+            "tenantId": "pg",
+            "businessServiceId": "2317d56c-f1e4-426b-bb1d-fd819cdfc37d",
+            "sla": null,
+            "state": "CLOSEDAFTERRESOLUTION",
+            "applicationStatus": "CLOSEDAFTERRESOLUTION",
+            "docUploadRequired": false,
+            "isStartState": false,
+            "isTerminateState": true,
+            "isStateUpdatable": false,
+            "actions": null
+        }
+    ],
+    "auditDetails": {
+        "createdBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+        "lastModifiedBy": "7e9e676f-60d1-426f-861c-0cfdd5a8a572",
+        "createdTime": 1601881624378,
+        "lastModifiedTime": 1601881624378
+    }
+}

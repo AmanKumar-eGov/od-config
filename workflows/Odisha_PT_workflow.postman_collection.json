@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "23c700b7-a4f2-4554-b48c-e133d8901391",
+		"name": "Odisha_PT_workflow",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Odisha_PT_mutation_workflow",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"RequestInfo\": {\r\n    \"apiId\": \"Rainmaker\",\r\n    \"action\": \"\",\r\n    \"did\": 1,\r\n    \"key\": \"\",\r\n    \"msgId\": \"20170310130900|en_IN\",\r\n    \"requesterId\": \"\",\r\n    \"ts\": 1513579888683,\r\n    \"ver\": \".01\",\r\n    \"authToken\": \"6a2580fb-0de5-4717-b3e5-462e769fda46\"\r\n  },\r\n   \"BusinessServices\": [\r\n       {\r\n            \"tenantId\": \"od\",\r\n            \"businessService\": \"PT.MUTATION\",\r\n            \"business\": \"PT\",\r\n            \"businessServiceSla\": null,\r\n            \"states\": [\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": null,\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": true,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"OPEN\",\r\n                            \"nextState\": \"OPEN\",\r\n                            \"roles\": [\r\n                                \"CITIZEN\",\r\n                                \"EMPLOYEE\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"OPEN\",\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": true,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"VERIFY\",\r\n                            \"nextState\": \"DOCVERIFIED\",\r\n                            \"roles\": [\r\n                                \"PT_DOC_VERIFIER\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"DOCVERIFIED\",\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"FORWARD\",\r\n                            \"nextState\": \"FIELDVERIFIED\",\r\n                            \"roles\": [\r\n                                \"PT_FIELD_INSPECTOR\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"FIELDVERIFIED\",\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"APPROVE\",\r\n                            \"nextState\": \"APPROVED\",\r\n                            \"roles\": [\r\n                                \"PT_APPROVER\"\r\n                            ]\r\n                        },\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"REJECT\",\r\n                            \"nextState\": \"REJECTED\",\r\n                            \"roles\": [\r\n                                \"PT_APPROVER\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"APPROVED\",\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"PAY\",\r\n                            \"nextState\": \"PAID\",\r\n                            \"roles\": [\r\n                                \"EMPLOYEE\",\r\n                                \"CITIZEN\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"REJECTED\",\r\n                    \"applicationStatus\": \"INACTIVE\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": true,\r\n                    \"actions\": null\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"PAID\",\r\n                    \"applicationStatus\": \"ACTIVE\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": true,\r\n                    \"actions\": null\r\n                }\r\n            ]\r\n        }\r\n  ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8083/egov-workflow-v2/egov-wf/businessservice/_create",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8083",
+					"path": [
+						"egov-workflow-v2",
+						"egov-wf",
+						"businessservice",
+						"_create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Odisha_PT_create_workflow",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"RequestInfo\": {\r\n    \"apiId\": \"Rainmaker\",\r\n    \"action\": \"\",\r\n    \"did\": 1,\r\n    \"key\": \"\",\r\n    \"msgId\": \"20170310130900|en_IN\",\r\n    \"requesterId\": \"\",\r\n    \"ts\": 1513579888683,\r\n    \"ver\": \".01\",\r\n    \"authToken\": \"6a2580fb-0de5-4717-b3e5-462e769fda46\"\r\n  },\r\n   \"BusinessServices\": [\r\n     {\r\n            \"tenantId\": \"od\",\r\n            \"businessService\": \"PT.CREATE\",\r\n            \"business\": \"PT\",\r\n            \"businessServiceSla\": null,\r\n            \"states\": [\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": null,\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": true,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"OPEN\",\r\n                            \"nextState\": \"OPEN\",\r\n                            \"roles\": [\r\n                                \"CITIZEN\",\r\n                                \"EMPLOYEE\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"OPEN\",\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": true,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"VERIFY\",\r\n                            \"nextState\": \"DOCVERIFIED\",\r\n                            \"roles\": [\r\n                                \"PT_DOC_VERIFIER\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"DOCVERIFIED\",\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"FORWARD\",\r\n                            \"nextState\": \"FIELDVERIFIED\",\r\n                            \"roles\": [\r\n                                \"PT_FIELD_INSPECTOR\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"FIELDVERIFIED\",\r\n                    \"applicationStatus\": \"INWORKFLOW\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": false,\r\n                    \"actions\": [\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"APPROVE\",\r\n                            \"nextState\": \"APPROVED\",\r\n                            \"roles\": [\r\n                                \"PT_APPROVER\"\r\n                            ]\r\n                        },\r\n                        {\r\n                            \"tenantId\": \"od\",\r\n                            \"action\": \"REJECT\",\r\n                            \"nextState\": \"REJECTED\",\r\n                            \"roles\": [\r\n                                \"PT_APPROVER\"\r\n                            ]\r\n                        }\r\n                    ]\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"REJECTED\",\r\n                    \"applicationStatus\": \"INACTIVE\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": true,\r\n                    \"actions\": null\r\n                },\r\n                {\r\n                    \"tenantId\": \"od\",\r\n                    \"sla\": null,\r\n                    \"state\": \"APPROVED\",\r\n                    \"applicationStatus\": \"ACTIVE\",\r\n                    \"docUploadRequired\": false,\r\n                    \"isStartState\": false,\r\n                    \"isTerminateState\": true,\r\n                    \"actions\": null\r\n                }\r\n            ]\r\n        }\r\n  ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8083/egov-workflow-v2/egov-wf/businessservice/_create",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8083",
+					"path": [
+						"egov-workflow-v2",
+						"egov-wf",
+						"businessservice",
+						"_create"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

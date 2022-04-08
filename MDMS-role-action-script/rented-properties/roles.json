@@ -1,0 +1,43 @@
+{
+  "tenantId": "ch",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+  
+		{
+		  "code": "RP_CLERK",
+		  "name": "CLERK",
+		  "description": "Employee who verifies, rejects and approves the RP application"
+		},
+		{
+		  "code": "RP_JA",
+		  "name": "JA",
+		  "description": "Employee who verifies, rejects and approves the RP application which is approved by clerk"
+		},
+		{
+		  "code": "RP_SA",
+		  "name": "SA",
+		  "description": "Employee who verifies, rejects and approves the RP application which is approved by clerk"
+		},
+		{
+		  "code": "RP_SI",
+		  "name": "SI",
+		  "description": "Employee who verifies, rejects and approves the RP application which is approved by SA"
+		},
+		{
+		  "code": "RP_CA",
+		  "name": "CA",
+		  "description": "Employee who verifies, rejects and approves the RP application which is approved by SI"
+		},
+		{
+		  "code": "RP_SURVEYOR",
+		  "name": "SURVEYOR",
+		  "description": "Employee who verifies the Trasit site and uploads the documents for capturing transite site images"
+		},
+		{
+		  "code": "RP_APRO",
+		  "name": "APRO",
+		  "description": "Employee who manages the public relations for transit sites for rented properties"
+		}
+		
+	]
+}

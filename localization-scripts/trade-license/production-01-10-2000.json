@@ -1,0 +1,6560 @@
+[
+    {
+      "code": "ACTION_TEST_ACCOUNTING_ENTITY",
+      "message": "Accounting Entity",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ACCOUNTING_RECORDS",
+      "message": "Accounting Records",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ACCOUNT_CHEQUES",
+      "message": "Account Cheques",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ADD_RELEASE",
+      "message": "Add/Release",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ADMINISTRATION",
+      "message": "Administration",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_ATTENDANCE_REPORT",
+      "message": "Attendance Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_BRANCH",
+      "message": "Agenda Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_BRANCH_AGENDA",
+      "message": "Agenda",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_BRANCH_CREATE_AGENDA",
+      "message": "Create Agenda",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_BRANCH_SEND_AGENDA_INVITATION",
+      "message": "Send Agenda Notification",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_BRANCH_UPDATE_AGENDA",
+      "message": "Update Agenda",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_BRANCH_VIEW_AGENDA",
+      "message": "View Agenda",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CASTE",
+      "message": "Caste",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_COMMITTEE_TYPE",
+      "message": "Committee Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_COUNCIL_DATA_ENTRY_SCREEN",
+      "message": "Council Data Entry Screen",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_COUNCIL_MEMBER",
+      "message": "Council Member",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_COUNCIL_ROUTER",
+      "message": "Council Router",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CREATE_CASTE",
+      "message": "Create Caste",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CREATE_COMMITTEE_TYPE",
+      "message": "Create Committee Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CREATE_COUNCIL_MEMBER",
+      "message": "Create Council Member",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CREATE_COUNCIL_ROUTER",
+      "message": "Create Council Router",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CREATE_DESIGNATION",
+      "message": "Create Designation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CREATE_MEETING_INVITATION",
+      "message": "Create Meeting Invitation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CREATE_MOM",
+      "message": "Create MOM",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_CREATE_POLITICAL_PARTY",
+      "message": "Create Political Party",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_DESIGNATION",
+      "message": "Designation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_ENTER_ATTENDANCE",
+      "message": "Enter Attendance",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_MASTERS",
+      "message": "Masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_MEETING",
+      "message": "Meeting",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_MEETING_DETAILS_REPORT",
+      "message": "Meeting Details Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_MOM",
+      "message": "MOM",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_POLITICAL_PARTY",
+      "message": "Political Party",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_REPORT",
+      "message": "Agenda Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_REPORTS",
+      "message": "Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_SEND_SMS_AND_EMAIL",
+      "message": "Send Sms And Email",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_SEQUENCE_NUMBERS_ENTRY",
+      "message": "Sequence Numbers Entry",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_TRANSACTIONS",
+      "message": "Transactions",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_CASTE",
+      "message": "Update Caste",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_COMMITTEE_TYPE",
+      "message": "Update Committee Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_COUNCIL_MEMBER",
+      "message": "Update Council Member",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_COUNCIL_ROUTER",
+      "message": "Update Council Router",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_DESIGNATION",
+      "message": "Update Designation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_MEETING",
+      "message": "Update Meeting",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_MOM",
+      "message": "Update MOM",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_POLITICAL_PARTY",
+      "message": "Update Political Party",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_UPDATE_SEQUENCE_NUMBERS",
+      "message": "Update Sequence Numbers",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_VIEW_CASTE",
+      "message": "View Caste",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_VIEW_COMMITTEE_TYPE",
+      "message": "View Committee Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_VIEW_COUNCIL_MEMBER",
+      "message": "View Council Member",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_VIEW_COUNCIL_ROUTER",
+      "message": "View Council Router",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_VIEW_DESIGNATION",
+      "message": "View Designation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_VIEW_MEETING",
+      "message": "View Meeting",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_VIEW_MOM",
+      "message": "View MOM",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_VIEW_POLITICAL_PARTY",
+      "message": "View Political Party",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AGENDA_WARD_WISE_AGENDA_REPORT",
+      "message": "Ward Wise Agenda Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ALL_COMPLAINTS",
+      "message": "All Complaints",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNIMANDI",
+      "message": "Day Market & Apni Mandi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNIMANDI_COLLECTION",
+      "message": "Collection",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNIMANDI_CONTRACTOR",
+      "message": "Day Market Contractor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNIMANDI_CREATE_COLLECTION",
+      "message": "Create Collection",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNIMANDI_CREATE_CONTRACTOR",
+      "message": "Contractor Implementation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNIMANDI_MANAGEMENT",
+      "message": "Day Market & Apni Mandi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNIMANDI_SEARCH_COLLECTION",
+      "message": "Search Collection",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNIMANDI_SEARCH_CONTRACTOR",
+      "message": "Search Contractor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APNI_MANDI_COLLECTIONS",
+      "message": "Apni Mandi collections",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APPLICATION",
+      "message": "Application",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APPROVE_RE_APPROPRIATION",
+      "message": "Approve Budget Reappropriation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APPROVE_UPLOADED_BUDGET",
+      "message": "Approve Uploaded Budget",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_APPROVE_UPLOAD_BUDGET",
+      "message": "Approve Uploaded Budget",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ASSESS_NEW_PROPERTY",
+      "message": "Assess New Property",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ASSIGNING_OFFICERS",
+      "message": "Assigning Officers",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ASSIGN_ACKNOWLEDGEMENT_NUMBER",
+      "message": "Assign Acknowledgement Number",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_AUTO_RECONCILE__STATEMENT_UPLOAD",
+      "message": "Auto reconcile- Statement Upload",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BALANCE_SHEET",
+      "message": "Balance Sheet",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BANK",
+      "message": "Bank",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BANK_ADVICE_REPORT_FOR_RTGS_BANK_PAYMENT",
+      "message": "Bank Advice Report for Payment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BANK_BOOK",
+      "message": "Bank Book",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BANK_RECONCILIATION",
+      "message": "Bank Reconciliation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BANK_REMITTANCE",
+      "message": "Bank Remittance",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BANK_RTGS_ASSIGNMENT",
+      "message": "RTGS Assignment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BANK_STATEMENT_ENTRIES___NOT_IN_BANK_BOOK",
+      "message": "Bank Statement Entries - Not In Bank Book",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BANK_TO_BANK_TRANSFER",
+      "message": "Bank to Bank Transfer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BILLS_ACCOUNTING",
+      "message": "Bills Accounting",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BILL_PAYMENT",
+      "message": "Bill Payment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGETING",
+      "message": "Budgeting",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_ADDITION_APPROPRIATION",
+      "message": "Budget Addition Appropriation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_CONTROL_TYPE",
+      "message": "Budget Control Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_DEFINITION",
+      "message": "Budget Definition",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_GROUP",
+      "message": "Budget Group",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_REPORTS",
+      "message": "Budget Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_UPLOAD_REPORT",
+      "message": "Budget Upload Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_VARIANCE_REPORT",
+      "message": "Budget Variance Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_VARIENCE_REPORT",
+      "message": "Budget Variance Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_BUDGET_WATCH_REGISTER",
+      "message": "Budget Watch Register",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CANCEL_BILLS",
+      "message": "Cancel Bills",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CANCEL_VOUCHERS",
+      "message": "Cancel Vouchers",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CASH_DEPOSIT",
+      "message": "Cash Deposit",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CASH_REMITTANCE",
+      "message": "Cash Remittance",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CASH_WITHDRAWAL",
+      "message": "Cash Withdrawal",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CHALLAN_RECEIPT",
+      "message": "Challan Receipt",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CHARTOFACCOUNTS",
+      "message": "Chartofaccounts",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CHART_OF_ACCOUNTS",
+      "message": "Chart Of Accounts",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CHEQUE_ASSIGNMENT",
+      "message": "Cheque Assignment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CHEQUE_ISSUE_REGISTER",
+      "message": "Cheque Issue Register",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CHEQUE_REMITTANCE",
+      "message": "Cheque Remittance",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CLOSED_COMPLAINTS",
+      "message": "Closed Complaints",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CLOSE_FINANCIAL_YEAR",
+      "message": "Close Financial Year",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CLOSE_PERIOD",
+      "message": "Close Period",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_COA_REPORT",
+      "message": "Coa Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_COLLECTIONS",
+      "message": "Collections",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_COLLECTION_REGISTER",
+      "message": "Collection Register",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_COMPLAINTS",
+      "message": "Complaints",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_COMPLAINTS_TYPE",
+      "message": "Complaint Types",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_COMPLAINT_TYPES",
+      "message": "Complaint Types",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_COMPLETE_BILL_REGISTER_REPORT",
+      "message": "Complete Bill Register Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CONSTRUCTION_TYPE",
+      "message": "Construction Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CONTRACTOR",
+      "message": "Contractor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CONTRACTOR_BILL",
+      "message": "Contractor Bill",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CONTRA_ENTRIES",
+      "message": "Contra Entries",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_ACCOUNTING_ENTITY",
+      "message": "Create Accounting Entity",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_BANK",
+      "message": "Create Bank",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_BANKACCOUNT_MAPPING",
+      "message": "Create Bankaccount Mapping",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_BANK_ACCOUNT",
+      "message": "Create Bank Account",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_BANK_BRANCH",
+      "message": "Create Bank Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_BUDGET_DEFINITION",
+      "message": "Create Budget Definition",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_BUDGET_GROUP",
+      "message": "Create Budget Group",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_CHALLAN",
+      "message": "Create Challan",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_CONTRACTOR",
+      "message": "Create Contractor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_DEDUCTIONS",
+      "message": "Create Deductions",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_DETAILED_CODE",
+      "message": "Create Detailed Code",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_FINANCIAL_YEAR",
+      "message": "Create Financial Year",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_FUNCTION",
+      "message": "Create Function",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_FUND",
+      "message": "Create Fund",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_FUND_SOURCE",
+      "message": "Create Fund Source",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_OTHER_MASTERS",
+      "message": "Create other masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_PURCHASE_ORDER",
+      "message": "Create Purchase Order",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_SCHEME",
+      "message": "Create Scheme",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_SUBLEDGER_CATEGORY",
+      "message": "Create Subledger Category",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_SUBLEDGER_MASTERS",
+      "message": "Create Subledger Masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_SUB_SCHEME",
+      "message": "Create Sub Scheme",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_SUPPLIER",
+      "message": "Create Supplier",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_UPDATE_BUDGET_CONTROL_TYPE",
+      "message": "Create/Update-Budget Control Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_CREATE_WORK_ORDER",
+      "message": "Create Work Order",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DASHBOARD",
+      "message": "Dashboard",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DAY_BOOK_REPORT",
+      "message": "Day Book Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DAY_MARKET_COLLECTIONS",
+      "message": "Day Market Collections",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DAY_MARKET_CONTRACTORS",
+      "message": "Day Market Contractors",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEDUCTIONS",
+      "message": "Deductions",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEDUCTIONS_CHEQUE_ASSIGNMENT",
+      "message": "Deductions Cheque Assignment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEDUCTIONS_PEX_ASSIGNMENT",
+      "message": "Deductions PEX Assignment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEDUCTIONS_RTGS_ASSIGNMENT",
+      "message": "Deductions RTGS Assignment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEDUCTIONS_SUMMARY",
+      "message": "Deductions Summary",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEDUCTION_PAYMENTS",
+      "message": "Deduction Payments",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEDUCTION_REPORTS",
+      "message": "Deduction Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEDUCTION_SUMMARY",
+      "message": "Deductions Summary",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEPARTMENTS",
+      "message": "Departments",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DEPARTMENTWISE_BUDGET",
+      "message": "Departmentwise Budget",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DESCRIPTION",
+      "message": "Description Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DETAILED_CODES",
+      "message": "Detailed Codes",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DIRECT_BANK_PAYMENTS",
+      "message": "Direct Bank Payments",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DISHONORED_INSTRUMENT",
+      "message": "Dishonored Instrument",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_DM_CONTRACTORS_BY_ZONE",
+      "message": "DM Contractors By Zone",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_EDIT_FINANCIAL_YEAR",
+      "message": "Edit Financial Year",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_EMPLOYEE",
+      "message": "Employee",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_EVENTREPORT",
+      "message": "Events Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_EVENTS",
+      "message": "Events",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_EXPENSE_BILL",
+      "message": "Expense Bill",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FINANCE",
+      "message": "Finance",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FINANCIAL_INDICATORS",
+      "message": "Financial Indicators",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FINANCIAL_STATEMENTS",
+      "message": "Financial Statements",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FINANCIAL_YEAR",
+      "message": "Financial Year",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FIRE_NOC",
+      "message": "Fire NOC",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FUNCTION",
+      "message": "Function",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FUNCTIONWISE_BUDGET",
+      "message": "Functionwise Budget",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FUND",
+      "message": "Fund",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_FUND_SOURCE",
+      "message": "Fund Source",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_GENERAL_LEDGER_REPORT",
+      "message": "General Ledger Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_HOME",
+      "message": "Home",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_HORTICULTURE",
+      "message": "Horticulture",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_HRMS",
+      "message": "HRMS",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_INCOME___EXPENDITURES_STATEMENT",
+      "message": "Income - Expenditures Statement",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_JOURNAL_BOOK_REPORT",
+      "message": "Journal Book Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_JOURNAL_VOUCHER",
+      "message": "Journal Voucher",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LANGUAGE",
+      "message": "Language Selection",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LANGUAGES",
+      "message": "Language Selection",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CASE_LIBRARY",
+      "message": "Legal Case Library",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CASE_MANAGEMENT",
+      "message": "Legal Case Management",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CASE_MASTERS",
+      "message": "Masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CASE_PROCESSING",
+      "message": "Legal Case Processing",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CASE_REPORTS",
+      "message": "Legal Case Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CASE_TYPE_MASTER",
+      "message": "Case Type Master",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_COURT_MASTER",
+      "message": "Court Master",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_COURT_TYPE_MASTER",
+      "message": "Court Type Master",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CREATE_CASE_TYPE",
+      "message": "Create Case Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CREATE_COURT",
+      "message": "Create Court",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CREATE_COURT_TYPE",
+      "message": "Create Court Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CREATE_DEFENDING_COUNSEL",
+      "message": "Create Defending Counsel",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CREATE_JUDGEMENT_TYPE",
+      "message": "Create Judgement Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CREATE_LEGAL_CASE",
+      "message": "Create Legal Case",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CREATE_LIBRARY",
+      "message": "Legal Create Library",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_CREATE_PETITION_TYPE",
+      "message": "Create Petition Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_DAILY_BOARD_REPORT",
+      "message": "Daily Board Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_DEFENDING_COUNSEL_MASTER",
+      "message": "Defending Counsel Master",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_GENERIC_SUB_REPORT",
+      "message": "Generic Sub Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_JUDGEMENT_TYPE_MASTER",
+      "message": "Judgement Type Master",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_MODIFY_CASE_TYPE",
+      "message": "Modify Case Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_MODIFY_COURT",
+      "message": "Modify Court",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_MODIFY_COURT_TYPE",
+      "message": "Modify Court Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_MODIFY_DEFENDING_COUNSEL",
+      "message": "Modify Defending Counsel",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_MODIFY_JUDGEMENT_TYPE",
+      "message": "Modify Judgement Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_MODIFY_LIBRARY",
+      "message": "Legal Modify Library",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_MODIFY_PETITION_TYPE",
+      "message": "Modify Petition Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_PETITION_TYPE_MASTER",
+      "message": "Petition Type Master",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_REPORTS_BETWEEN_DUE_DATES",
+      "message": "Reports Between Due Dates",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_SEARCH_LEGAL_CASE",
+      "message": "Search Legal Case",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_SEARCH_LIBRARY",
+      "message": "Legal Search Library",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_TIME_SERIES_REPORT",
+      "message": "Time Series Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_VIEW_CASE_TYPE",
+      "message": "View Case Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_VIEW_COURT",
+      "message": "View Court",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_VIEW_COURT_TYPE",
+      "message": "View Court Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_VIEW_DEFENDING_COUNSEL",
+      "message": "View Defending Counsel",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_VIEW_JUDGEMENT_TYPE",
+      "message": "View Judgement Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LEGAL_VIEW_PETITION_TYPE",
+      "message": "View Petition Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_LOCALITYREPORTS",
+      "message": "Locality Wise Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MASTER",
+      "message": "Master",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MASTERS",
+      "message": "Masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MEETING_DETAILS_REPORT",
+      "message": "Meeting Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MISCELLANEOUS_RECEIPTS",
+      "message": "Miscellaneous Receipts",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MIS_REPORT",
+      "message": "MIS Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MIS_REPORTS",
+      "message": "MIS Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_ACCOUNTING_ENTITY",
+      "message": "Modify Accounting Entity",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_BANK",
+      "message": "Modify Bank",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_BANK_ACCOUNT",
+      "message": "Modify Bank Account",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_BANK_BRANCH",
+      "message": "Modify Bank Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_BUDGET_DEFINITION",
+      "message": "Modify Budget Definition",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_BUDGET_GROUP",
+      "message": "Modify Budget Group",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_CONTRACTOR",
+      "message": "Modify Contractor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_DEDUCTIONS",
+      "message": "Modify Deductions",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_DETAILED_CODE",
+      "message": "Modify Detailed Code",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_FUNCTION",
+      "message": "Modify Function",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_FUND",
+      "message": "Modify Fund",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_FUND_SOURCE",
+      "message": "Modify Fund Source",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_OTHER_MASTERS",
+      "message": "Modify other masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_PURCHASE_ORDER",
+      "message": "Modify Purchase Order",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_SCHEME",
+      "message": "Modify Scheme",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_SUBLEDGER_CATEGORY",
+      "message": "Modify Subledger Category",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_SUBLEDGER_MASTERS",
+      "message": "Modify Subledger Masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_SUB_SCHEME",
+      "message": "Modify Sub Scheme",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_SUPPLIER",
+      "message": "Modify Supplier",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_MODIFY_WORK_ORDER",
+      "message": "Modify Work Order",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_OPENING_BALANCE_ENTRY",
+      "message": "Opening Balance Entry",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_OPENING_BALANCE_REPORT",
+      "message": "Opening Balance Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_OPEN_COMPLAINTS",
+      "message": "Open Complaints",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_OTHER_MASTERS",
+      "message": "Other Masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_OTHER_SERVICES",
+      "message": "Other Services",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PAYMENTS",
+      "message": "Payments",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PAYMENT_REQUEST",
+      "message": "Payment Request",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PERIOD_END_ACTIVITIES",
+      "message": "Period End Activities",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PEX_ASSIGNMENT",
+      "message": "PEX Assignment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PEX_REGISTER_REPORT",
+      "message": "Pex Register Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PGR_REPORTS",
+      "message": "PGR Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PR",
+      "message": "Public Relations",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PROPERTY_SUBTYPE",
+      "message": "Property Subtype",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PROPERTY_TAX",
+      "message": "Property Tax",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PT_MASTERS",
+      "message": "PT Masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PT_REPORTS",
+      "message": "PT Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PUBLIC_MESSAGE_BROADCAST",
+      "message": "Public Message Broadcast",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PUBLIC_RELATION",
+      "message": "Public Relations",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_PURCHASE_ORDER",
+      "message": "Purchase Order",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RECEIPTS",
+      "message": "Receipts",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RECEIPTS-NOC",
+      "message": "Receipts",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RECEIPT_REGISTER",
+      "message": "Receipt Register",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RECONCILE_UPLOADED_STATEMENT",
+      "message": "Reconcile Uploaded Statement",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RECONCILE_WITH_BANK_MANUAL",
+      "message": "Reconcile with Bank-Manual",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RECONCILIATION_SUMMARY_REPORT",
+      "message": "Reconciliation Summary Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RECOVERY_REPORT",
+      "message": "Recovery Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_REMITTANCE_PENDING",
+      "message": "Remittance Pending",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_REPORT",
+      "message": "Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_REPORTS",
+      "message": "Reports",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_REVENUE_COLLECTIONS",
+      "message": "Revenue/Collections",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RTGS_ASSIGNMENT",
+      "message": "RTGS Assignment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_RTGS_REGISTER_REPORT",
+      "message": "RTGS register report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SCHEME",
+      "message": "Scheme",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SCP",
+      "message": "Sports and Cultural ",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SEARCH",
+      "message": "Search",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SEARCH_BUDGET",
+      "message": "Search Budget",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SEARCH_CHALLAN",
+      "message": "Search Challan",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SEARCH_PROPERTIES",
+      "message": "Search Properties",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SEARCH_RECEIPTS",
+      "message": "Search Receipts",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SET_UP",
+      "message": "Set-up",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SOURCE",
+      "message": "Source Wise Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_STATE_LEVEL_STATUS",
+      "message": "State Level Status",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_STATE_LEVEL_TRADE_LICENSE_REGISTRY_REPORT",
+      "message": "State Level Trade License Registry Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_STATE_LEVEL_TRADE_WISE_COLLECTION",
+      "message": "State Level Trade Wise Collection",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_STOP_PAYMENT",
+      "message": "Stop Payment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SUBLEDGER_CONFIGURATION",
+      "message": "Subledger Configuration",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SUB_LEDGER_REPORT",
+      "message": "Sub Ledger Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SUB_LEDGER_SCHEDULE_REPORT",
+      "message": "Sub Ledger Schedule Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SUPPLIER",
+      "message": "Supplier",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SUPPLIER_BILL",
+      "message": "Supplier Bill",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SURRENDER_PEX",
+      "message": "Surrender PEX",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SURRENDER_REASSIGN_CHEQUE",
+      "message": "Surrender/Reassign Cheque",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_SURRENDER_RTGS",
+      "message": "Surrender RTGS",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TIMESERIESREPORT",
+      "message": "Time Series Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRADELICENSE",
+      "message": "Trade License",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRADE_LICENCE",
+      "message": "Trade License",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRADE_LICENSE",
+      "message": "Trade License",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRADE_LICENSE_APPLICATION_STATUS_REPORT",
+      "message": "Trade License Application Status Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRADE_LICENSE_REGISTRY_REPORT",
+      "message": "Trade License Registry Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRADE_LICENSE_REPORTS",
+      "message": "Trade License Indicators",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRADE_WISE_COLLECTION_REPORT",
+      "message": "Trade Wise Collection Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRANSACTIONS",
+      "message": "Transactions",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRANSFER_CLOSING_BALANCE",
+      "message": "Transfer Closing Balance",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_TRIAL_BALANCE",
+      "message": "Trial Balance",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ULB_EMPLOYEES",
+      "message": "Employee Wise report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ULB_INFORMATION",
+      "message": "ULB Information",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_ULB_WISE_PT_COLLECTION_REPORT",
+      "message": "ULB Wise PT Collection Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_UPLOAD_BUDGET",
+      "message": "Upload Budget",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VERIFY_RE_APPROPRIATION",
+      "message": "Verify Budget Reappropriation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VERIFY_UPLOADED_BUDGET",
+      "message": "Verify Uploaded Budget",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_ACCOUNTING_ENTITY",
+      "message": "View Accounting Entity",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_ACCOUNT_ENTITY",
+      "message": "View Accounting Entity",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_BANK",
+      "message": "View Bank",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_BANKACCOUNT_MAPPING",
+      "message": "View Bankaccount Mapping",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_BANK_ACCOUNT",
+      "message": "View Bank Account",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_BANK_BRANCH",
+      "message": "View Bank Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_BANK_STATEMENT_UPLOADED_FILES",
+      "message": "View Bank Statement Uploaded Files",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_BILL_REGISTERS",
+      "message": "View Bill Registers",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_BUDGET_DEFINITION",
+      "message": "View Budget Definition",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_BUDGET_GROUP",
+      "message": "View Budget Group",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_CONTRACTOR",
+      "message": "View Contractor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_DEDUCTIONS",
+      "message": "View Deductions",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_DETAILED_CODE",
+      "message": "View Detailed Code",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_FINANCIAL_YEAR",
+      "message": "View Financial Year",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_FUNCTION",
+      "message": "View Function",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_FUND",
+      "message": "View Fund",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_FUND_SOURCE",
+      "message": "View Fund Source",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_OTHER_MASTERS",
+      "message": "View other masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_PAYMENT_REQUEST",
+      "message": "View Payment Request ",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_PURCHASE_ORDER",
+      "message": "View Purchase Order",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_SCHEME",
+      "message": "View Scheme",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_SUBLEDGER_CATEGORY",
+      "message": "View Subledger Category",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_SUBLEDGER_MASTERS",
+      "message": "View Subledger Masters",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_SUB_SCHEME",
+      "message": "View Sub Scheme",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_SUPPLIER",
+      "message": "View Supplier",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_VOUCHER",
+      "message": "View Voucher",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VIEW_WORK_ORDER",
+      "message": "View Work Order",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VOUCHER_FROM_BILL",
+      "message": "Voucher from bill",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_VOUCHER_STATUS_REPORT",
+      "message": "Voucher Status Report",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_W&S",
+      "message": "W&S",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ACTION_TEST_WORK_ORDER",
+      "message": "Work Order",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ADD_MESSAGE_BUTTON",
+      "message": "ADD MESSAGE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ADD_NEW_EVENT",
+      "message": "Add New Event",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ADD_NEW_PUBLIC_MESSAGE",
+      "message": "Add New Public Message",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMOM_CREDIT/COMMON_DEBIT_CARD",
+      "message": " Credit/Debit Card",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_ACTION_TEST_COLLAPSE",
+      "message": "Collapse",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_ACTION_TEST_EXPAND_MENU",
+      "message": "Expand Menu",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_ALL",
+      "message": "All",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_ARREARS",
+      "message": "Arrears",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_CASH",
+      "message": "CASH",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_CHEQUE",
+      "message": "CHEQUE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_CREDIT_DEBIT_CARD",
+      "message": "Credit/DebitCard",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_DD",
+      "message": "DD",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_DOWNLOAD_RECEIPT",
+      "message": "DOWNLOAD RECEIPT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_EVENTS_LABEL",
+      "message": "Events",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_GENDER_FEMALE",
+      "message": "Female",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_GENDER_MALE",
+      "message": "Male",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_GENERATE_RECEIPT",
+      "message": "GENERATE RECEIPT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_HOW_IT_WORKS",
+      "message": "How it works?",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_INBOX_NO_DATA",
+      "message": "No results found !",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_INBOX_TAB_ALL",
+      "message": "All ({0})",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_INBOX_TAB_ASSIGNED_TO_ME",
+      "message": "Assigned to Me ({0})",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MAKE_PAYMENT",
+      "message": "MAKE PAYMENT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_1",
+      "message": "Street Lights",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_10",
+      "message": "Help Desk",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_12",
+      "message": "Birth and Death Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_13",
+      "message": "Tax Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_14",
+      "message": "Civil",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_15",
+      "message": "Engineering Branch (O&M - W&S)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_16",
+      "message": "Health Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_17",
+      "message": "Tehbezari branch (Encroachments)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_18",
+      "message": "Engineering Branch (Electrical)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_19",
+      "message": "Advertisment Tax Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_2",
+      "message": "Building & Roads",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_20",
+      "message": "Complaint Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_21",
+      "message": "Sanitation Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_22",
+      "message": "Engineering Branch (Mechanical)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_23",
+      "message": "Tehbazari",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_24",
+      "message": "Fire Brigade",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_25",
+      "message": "Accounts Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_26",
+      "message": "Rent",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_27",
+      "message": "License Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_28",
+      "message": "Property Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_29",
+      "message": "Receipt and Dispatch Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_3",
+      "message": "Health & Sanitation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_30",
+      "message": "Tehbazari and Property Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_31",
+      "message": "Pension and HFA etc",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_32",
+      "message": "Land Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_33",
+      "message": "Property Tax Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_34",
+      "message": "Establishment Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_35",
+      "message": "Works Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_36",
+      "message": "GIS Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_37",
+      "message": "Electrical Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_38",
+      "message": "General Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_39",
+      "message": "Court Case Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_4",
+      "message": "Operation & Maintenance",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_40",
+      "message": "Tehbezari branch - for Encroachments",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_41",
+      "message": "Water Supply and Sewerage",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_42",
+      "message": "Executive Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_43",
+      "message": "Property and House Tax",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_44",
+      "message": "Purchaser Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_45",
+      "message": "Engineering Branch (Civil - B&R",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_47",
+      "message": "Fire Services Department",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_49",
+      "message": "BPL",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_5",
+      "message": "Hotriculture",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_51",
+      "message": "Executive Agency",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_52",
+      "message": "Library",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_6",
+      "message": "Building Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_7",
+      "message": "Citizen service desk",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_8",
+      "message": "Complaint Cell",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_9",
+      "message": "Secretary/General Administration Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_LG",
+      "message": "Legal Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_DEPT_TP",
+      "message": "Town Planning",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DEPARTMENT_PWSSB",
+      "message": "PWSSB",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_CE",
+      "message": "Chief Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_CLERK",
+      "message": "Clerk",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_01",
+      "message": "Superintending Engineer ( B&R)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_02",
+      "message": "Corporation Engineer (B&R)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_03",
+      "message": "Asst. Engineer ( B&R)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_04",
+      "message": "Junior Engineer ( B&R)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_05",
+      "message": "Land Scape Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_06",
+      "message": "Superintending Engineer ( O&M)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_07",
+      "message": "Corporation Engineer (O&M)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_08",
+      "message": "Asst. Engineer ( O&M)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_09",
+      "message": "Junior Engineer ( O&M)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_10",
+      "message": "Superintending Engineer ( Light)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_100",
+      "message": "Computer Opertor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_1001",
+      "message": "Deputy Controller Finance and Accounts",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_101",
+      "message": "Steno",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_102",
+      "message": "Plumber",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_103",
+      "message": "Pump Operator",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_104",
+      "message": "Court Clerk",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_105",
+      "message": "Fitter Coolie",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_106",
+      "message": "Sub Divisional Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_107",
+      "message": "Sub Fire Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_108",
+      "message": "Restorar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_109",
+      "message": "Senior Scale Stenographer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_11",
+      "message": "Corporation Engineer (Light)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_110",
+      "message": "Mali-Cum-Chounkidar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_111",
+      "message": "Mali",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_112",
+      "message": "Beldar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_113",
+      "message": "Sanitory Supervisor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_114",
+      "message": "Fiter Cooli",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_115",
+      "message": "Junior Technician",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_116",
+      "message": "Sewerman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_117",
+      "message": "Steno/Personal Assistant",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_118",
+      "message": "Architect",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_119",
+      "message": "Site Engineer/Contractor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_12",
+      "message": "Junior Engineer ( Light)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_120",
+      "message": "Tractor Driver",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_121",
+      "message": "Trolley Man",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_123",
+      "message": "peon",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_124",
+      "message": "Bill Distributor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_125",
+      "message": "Sewadar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_13",
+      "message": "Health Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_14",
+      "message": "Medical Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_15",
+      "message": "Chief Sanitary Inspector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_16",
+      "message": "Sainitary Inspector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_17",
+      "message": "Sainitary Supervisor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_18",
+      "message": "Senior Town Planner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_19",
+      "message": "Municipal Town Planner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_20",
+      "message": "Asst. Town Planner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_21",
+      "message": "Building Inspector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_22",
+      "message": "Junior Enginer ( Horticulutre)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_23",
+      "message": "Citizen service representative",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_24",
+      "message": "Assistant Commissioner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_25",
+      "message": "Assistant Engineer (Light)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_26",
+      "message": "Secretary",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_27",
+      "message": "Computer Operator",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_28",
+      "message": "In Charge/DBA",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_33",
+      "message": "Baildar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_34",
+      "message": "Junior Assistant",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_35",
+      "message": "Inspector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_36",
+      "message": "Assistant Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_37",
+      "message": "Surveyor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_38",
+      "message": "Assistant Corporation Engg.",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_39",
+      "message": "Head Draftsman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_40",
+      "message": "General Inspector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_41",
+      "message": "Draftsman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_42",
+      "message": "Superintending Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_43",
+      "message": "Superitendent",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_44",
+      "message": "Junior Draftsman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_45",
+      "message": "Assistant Town Planner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_46",
+      "message": "Building inspector(Technical)/Draftsman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_47",
+      "message": "Superintendent",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_48",
+      "message": "Data entry operator",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_49",
+      "message": "Assistant Municipal Engineering",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_50",
+      "message": "Sanitary Inspector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_51",
+      "message": "Commissioner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_52",
+      "message": "Municipal Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_53",
+      "message": "Executive Engineer/Municipal Engineer/Corporation Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_54",
+      "message": "Junior.Assistant",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_55",
+      "message": "Fireman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_56",
+      "message": "Deputy Controller (Finance & Accounts)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_57",
+      "message": "Corporation Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_58",
+      "message": "Accountant",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_59",
+      "message": "Sanitary Supervisor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_60",
+      "message": "Draftman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_61",
+      "message": "Data Entry Operator",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_62",
+      "message": "Inspector/Senior Assistant",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_63",
+      "message": "Fire Station Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_64",
+      "message": "INSPECTOR",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_65",
+      "message": "Assistant Corporation Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_66",
+      "message": "Computer Programmer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_67",
+      "message": "Corporation Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_68",
+      "message": "Asistant Commisstioner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_69",
+      "message": "Executive officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_70",
+      "message": "ALM (Assistant Line Man)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_71",
+      "message": "Sub-Divisional Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_72",
+      "message": "Supervisor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_73",
+      "message": "GIS EXPERT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_74",
+      "message": "Local Registrar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_75",
+      "message": "Tax Collector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_76",
+      "message": "Building Superintendent",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_77",
+      "message": "Sanitory Inspector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_78",
+      "message": "Additional Local Registrar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_79",
+      "message": "Superintendent Engineer (Councils)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_80",
+      "message": "Senior Assistant",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_81",
+      "message": "Chief Sanitory Inspector",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_82",
+      "message": "Sub Registrar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_83",
+      "message": "Legal Assistant",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_84",
+      "message": "Electrician",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_85",
+      "message": "Assistant Municipal Engineer ( Civil )",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_86",
+      "message": "Junior Engineer (Building)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_87",
+      "message": "Computer in Birth and Death Branch",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_88",
+      "message": "Junior Engineer (Electrical)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_89",
+      "message": "Executive Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_90",
+      "message": "Peon",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_91",
+      "message": "Municipal Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_92",
+      "message": "Driver",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_93",
+      "message": "Sectional Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_94",
+      "message": "Sweeper",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_95",
+      "message": "Watchman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_96",
+      "message": "Pump Opertor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_97",
+      "message": "Clerk-cum- computer opertor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_98",
+      "message": "Assistant Municipal Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_DESIG_99",
+      "message": "Assistant Pump Operator",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_JE_PWSSB",
+      "message": "Junior Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_SDO_PWSSB",
+      "message": "Sub Division Officer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_DESIGNATION_XEN_PWSSB",
+      "message": "Executive Engineer",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL",
+      "message": "Individual",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL_MULTIPLEOWNERS",
+      "message": "Multiple Owners",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL_SINGLEOWNER",
+      "message": "Single Owner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT",
+      "message": "Institutional - Government",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT_CENTRALGOVERNMENT",
+      "message": "Central Government",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT_OTHERGOVERNMENTINSTITUITION",
+      "message": "Others - Government Institution",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT_STATEGOVERNMENT",
+      "message": "State Government",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT_ULBGOVERNMENT",
+      "message": "ULB Government",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE",
+      "message": "Institutional - Private",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_NGO",
+      "message": "NGO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_OTHERSPRIVATEINSTITUITION",
+      "message": "Others - Private Institution",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_PRIVATEBOARD",
+      "message": "Private board",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_PRIVATECOMPANY",
+      "message": "Private Company",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_PRIVATETRUST",
+      "message": "Private Trust",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERTYPE_BPL",
+      "message": "Below Poverty Line",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERTYPE_DEFENSE",
+      "message": "Defense Personnel",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERTYPE_FREEDOMFIGHTER",
+      "message": "Freedom Fighter",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERTYPE_HANDICAPPED",
+      "message": "Handicapped Person",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERTYPE_NONE",
+      "message": "None of the above",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MASTERS_OWNERTYPE_WIDOW",
+      "message": "Widow",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_MYCITY_LABEL",
+      "message": "My City",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_OTHER",
+      "message": "Other",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_OWNER",
+      "message": "Owner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_PAY_SCREEN_HEADER",
+      "message": "Payment Information",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_PAY_SREEN_HEADER",
+      "message": "Payment information",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_PRINT_RECEIPT",
+      "message": "PRINT RECEIPT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_RETRY",
+      "message": "RETRY",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "COMMON_SEARCH_SERVICE_INFORMATION",
+      "message": "Search Services & Information",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_CHECK_MESSAGE",
+      "message": "Please check your messages",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_CITY",
+      "message": "City",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_CITY_PLACEHOLDER",
+      "message": "Select your city",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_CONTINUE",
+      "message": "Continue",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_FORGOT_PASSWORD",
+      "message": "Forgot Password?",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_FORGOT_PASSWORD_LABEL",
+      "message": "FORGOT PASSWORD",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_LOGIN",
+      "message": "LOGIN",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_LOGOUT",
+      "message": "Logout",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_MOBILE_NUMBER",
+      "message": "Mobile Number",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_NAME",
+      "message": "Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_NAME_PLACEHOLDER",
+      "message": "Enter your name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_PHONE_NUMBER_PLACEHOLDER",
+      "message": "Enter your mobile number",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_COMMON_REQUIRED_ERRMSG",
+      "message": "Required",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_LOGIN_NO_ACCOUNT",
+      "message": "Don’t have an account?",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_LOGIN_PASSWORD",
+      "message": "Password",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_LOGIN_PASSWORD_PLACEHOLDER",
+      "message": "Enter your Password",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_LOGIN_USERNAME",
+      "message": "User Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_LOGIN_USERNAME_PLACEHOLDER",
+      "message": "Enter your Employee ID",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_LOGOUTPOPUP_CANCEL",
+      "message": "CANCEL",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_LOGOUTPOPUP_CONFIRM",
+      "message": "Are you sure you want to logout?",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_LOGOUTPOPUP_LOGOUT",
+      "message": "LOGOUT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_OTP_ERRORMSG",
+      "message": "Invalid OTP",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_OTP_GET_STARTED",
+      "message": "GET STARTED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_OTP_HEADING",
+      "message": "ENTER OTP",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_OTP_NOT_RECEIVE",
+      "message": "Didn’t receive OTP?",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_OTP_OTP",
+      "message": "OTP",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_OTP_PLACEHOLDER",
+      "message": "Enter OTP",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_OTP_RESEND",
+      "message": "RESEND",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_OTP_SENT_MESSAGE",
+      "message": "An OTP has been sent to :",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_REGISTER_HAVE_ACCOUNT",
+      "message": "Have an account?",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CORE_REGISTER_HEADING",
+      "message": "REGISTER",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CREATE_NEW_EVENTE_BUTTON_LABEL",
+      "message": "Create New Event",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_ALL",
+      "message": "All",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_MODULE_ALL",
+      "message": "All",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_NEWTL",
+      "message": "Trade License",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_PGR",
+      "message": "Complaints",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_PRUNING OF TREES GIRTH GREATER THAN 90 CMS",
+      "message": "Pruning of Trees Girth greater than or equals to 90 cms",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS",
+      "message": "Pruning of Trees Girth less than 90 cms",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_PT",
+      "message": "Property Tax",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_REMOVAL OF DEAD/DANGEROUS/DRY TREES",
+      "message": "Removal of Dead/Dangerous/Dry Trees",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_INBOX_REMOVAL OF GREEN TREES",
+      "message": "Removal of Green Trees",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_PAY",
+      "message": "PAY NOW",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_RATE",
+      "message": "RATE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_REOPEN",
+      "message": "RE-OPEN",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_COMMON_UPLOAD_PHOTOS",
+      "message": "UPLOAD PHOTOS*",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_HEADER_EVENTS",
+      "message": "Events",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_HEADER_MDMS_COMMON",
+      "message": "MDMS",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_HEADER_MYCITY",
+      "message": "My City",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_HEADER_NOTIFICATIONS",
+      "message": "Notifications",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_HOME_HEADER_PROFILE",
+      "message": "Edit Profile",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_INBOX_CLEAR",
+      "message": "CLEAR ALL",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_INBOX_LOCALITY_FILTER",
+      "message": "Locality",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_INBOX_MODULE_FILTER",
+      "message": "Module",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_INBOX_SEARCH",
+      "message": "Search",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_INBOX_STATUS_FILTER",
+      "message": "Status",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_LANDING_PAGE_WELCOME_TEXT",
+      "message": "Welcome",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_PROFILE_EMAIL",
+      "message": "Email Id",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_PROFILE_EMAIL_PLACEHOLDER",
+      "message": "Enter Your Email Id",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_PROFILE_SAVE",
+      "message": "Save",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_READ_Left",
+      "message": "Read Left",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_READ_MORE",
+      "message": "Read More",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_DAY",
+      "message": "{0} days ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_DAY_ONE",
+      "message": "{0} day ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_MINUTE",
+      "message": "{0} minutes ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_MINUTE_ONE",
+      "message": "{0} minute ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_MONTH",
+      "message": "{0} months ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_MONTH_ONE",
+      "message": "{0} month ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_NOW",
+      "message": "Now",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_TIME",
+      "message": "{0} hrs ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_TIME_ONE",
+      "message": "{0} hr ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_WEEK",
+      "message": "{0} weeks ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "CS_SLA_WEEK_ONE",
+      "message": "{0} week ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "Close Financial Year",
+      "message": "Close Financial Year",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "DASHBOARD_CITIZEN_SERVICES_LABEL",
+      "message": "Citizen Services",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "DASHBOARD_LOCAL_INFORMATION_LABEL",
+      "message": "Local Information",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "DASHBOARD_VIEW_ALL_LABEL",
+      "message": "VIEW ALL",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "DASHBOARD_WHATS_NEW_LABEL",
+      "message": "Whats New",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "DELETE_EVENT_LABEL",
+      "message": "Delete Event",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "DELETE_PUBLIC_MESSAGE",
+      "message": "Delete Public Message",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ERR_COMPLAINT_NUMBER_SEARCH",
+      "message": "Complaint No. should be at least 6 digits",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ERR_DEFAULT_INPUT_FIELD_MSG",
+      "message": "Please check the Missing/Invalid fields, then proceed!",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ERR_INVALID_NUMBER_OF_TREES_FIELD_MSG",
+      "message": "Please enter valid number of trees (Range : 1-99)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ERR_OTP_RESENT",
+      "message": "OTP has been Resent",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ACTIVE_LABEL",
+      "message": "Active",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ADDRESS_LABEL",
+      "message": "Event Address",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ADD_NEW_LABEL",
+      "message": "Add New Event",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ATTACHMENT_LABEL",
+      "message": "Attachment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_CATEGORY_LABEL",
+      "message": "Event Category",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_CATEGORY_PLACEHOLDER",
+      "message": "Select Event Category",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_COMMENTS_LABEL",
+      "message": "Message Content",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_COMMENTS_PLACEHOLDER",
+      "message": "Message Content ( Character Length:280)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_CREATED_EVENTS_HEADER",
+      "message": "Created Events",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_CREATE_EVENT",
+      "message": "CREATE EVENT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_DESCRIPTION",
+      "message": "Description",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_DESCRIPTION_LABEL",
+      "message": "Description",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_DESCRIPTION_LIMIT_PLACEHOLDER",
+      "message": "Description (Max Char Limit : 500)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_END_DATE_LABEL",
+      "message": "End Date",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ENTER_ENTRY_FEE_PLACEHOLDER",
+      "message": "Enter Entry Fee",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ENTER_ORGANIZER_NAME_PLACEHOLDER",
+      "message": "Enter Organizer Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ENTRY_FEE_INR_LABEL",
+      "message": "Entry Fee (INR)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_EVENTS_HEADER",
+      "message": "Events",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_EVENT_CATEGORY_LABEL",
+      "message": "Event Category",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_EVENT_NAME_LABEL",
+      "message": "Event Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_FROM_DATE_LABEL",
+      "message": "Display From Date",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_FROM_TIME_LABEL",
+      "message": "Event From Time",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_INACTIVE_LABEL",
+      "message": "Inactive",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_MESSAGE_LABEL",
+      "message": "Message",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_NAME_ADDRESS_PLACEHOLDER",
+      "message": "Enter Event Address",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_NAME_LABEL",
+      "message": "Event Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_NAME_PLACEHOLDER",
+      "message": "Enter Event Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_NEW_PUBLIC_MESSAGE_BUTTON_LABEL",
+      "message": "New Public Message",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ORGANIZER_NAME_LABEL",
+      "message": "Organizer Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_PICK_MAP_LABEL",
+      "message": "Pick event location from the map",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_POSTING_DATE_LABEL",
+      "message": "Posting Date",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_PUBLIC_MESSAGE_NOTICE_HEADER",
+      "message": "Public Message Notice",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_SELECT_CATEGORY_LABEL",
+      "message": "Select Event Category",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_START_DATE_LABEL",
+      "message": "Start Date",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_STATUS_LABEL",
+      "message": "Status",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_TITLE_LABEL",
+      "message": "Title",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_TITLE_LABEL_PLACEHOLDER",
+      "message": "Enter the title of the message",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_TO_DATE_LABEL",
+      "message": "Display To Date",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_TO_TIME_LABEL",
+      "message": "Event To Time",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_ULB_LABEL",
+      "message": "ULB",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_UPLOADED_MESSAGES_HEADER",
+      "message": "Uploaded Messages",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENTS_UPLOAD_FILE",
+      "message": "UPLOAD FILE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENT_ADD_NEW_LABEL",
+      "message": "Add New Event",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENT_ADD_SUCCESS_MESSAGE_MAIN",
+      "message": "Event submitted successfully",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENT_ADD_SUCCESS_MESSAGE_SUB",
+      "message": "A notification regarding this event has been sent to citizen at registered Mobile No.",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENT_DELETE_SUCCESS_MESSAGE_MAIN",
+      "message": "Event deleted Successfully",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "EVENT_UPDATE_SUCCESS_MESSAGE_MAIN",
+      "message": "Event updated successfully",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "FIRENOC_FIRESTATIONS_FS_AMRITSAR_01",
+      "message": "Amritsar Firestation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "FIRENOC_FIRESTATIONS_FS_JALANDHAR_01",
+      "message": "Jalandhar Firestation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "FIRENOC_FIRESTATIONS_FS_MOHALI_01",
+      "message": "Mohali Firestation",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "HC_APPROVAL_CHECKLIST_COMMENTS_LABEL",
+      "message": "Comment",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "HC_CITIZEN_REQUEST_EMAIL_SUBJECT_ACTION_ASSIGN",
+      "message": "Service Request Assign with Id <service_request_id>",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "HC_CURRENT_ROLE_LABEL",
+      "message": "Role",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "HC_DATE_LABEL",
+      "message": "Date",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "HC_SERVICE_REQUEST_STATUS_INITIATED",
+      "message": "INITIATED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "HC_TIME_TAKEN_TO_PROCESS_REQUEST",
+      "message": "Time Taken(Days)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "HC_UPDATED_BY_LABEL",
+      "message": "Remark By",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "INBOX_QUICK_ACTION",
+      "message": "QUICK ACTIONS",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "LANGUAGE_EN",
+      "message": "English",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "LANGUAGE_EN_IN",
+      "message": "LANGUAGE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "LANGUAGE_HI_IN",
+      "message": "भाषा",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "LANGUAGE_HN",
+      "message": "Hindi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "LANGUAGE_PN",
+      "message": "Punjabi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "LANGUAGE_PN_IN",
+      "message": "ਭਾਸ਼ਾ",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MAP_CLOSE_LABEL",
+      "message": "CLOSE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MAP_PICK_LABEL",
+      "message": "PICK",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MESSAGE_ADD_SUCCESS_MESSAGE_MAIN",
+      "message": "Message added successfully",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MESSAGE_ADD_SUCCESS_MESSAGE_SUB",
+      "message": "A notification regarding this message has been sent to citizen at registered Mobile No.",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MESSAGE_CANCEL_BUTTON",
+      "message": "CANCEL",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MESSAGE_DELETE_BUTTON_LABEL",
+      "message": "DELETE MESSAGE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MESSAGE_DELETE_SUCCESS_MESSAGE_MAIN",
+      "message": "Message deleted Successfully",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MESSAGE_SAVE_BUTTOM",
+      "message": "SAVE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MESSAGE_UPDATE_SUCCESS_MESSAGE_MAIN",
+      "message": "Message updated Successfully",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MODULE_FIRENOC",
+      "message": "Fire NOC",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MODULE_PT",
+      "message": "Property Tax",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MODULE_TL",
+      "message": "Trade License",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MSEVA_EVENTCATEGORIES_CULTURAL",
+      "message": "Cultural",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MSEVA_EVENTCATEGORIES_PUBLICHEALTH",
+      "message": "Public Health",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MSEVA_EVENTCATEGORIES_WARDCOMMITTEEMEETING",
+      "message": "Ward Committee Meeting",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_AREASQKM_LABEL",
+      "message": "Area (Sq Km)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_CODE_LABEL",
+      "message": "City",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_FEMALELITERACYRATE_LABEL",
+      "message": "Female Literacy Rate(%)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_FEMALEPOPULATION_LABEL",
+      "message": "Female Population",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_LANGUAGESSPOKEN_LABEL",
+      "message": "Languages Spoken",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_LITERACYRATE_LABEL",
+      "message": "Literacy Rate(%)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_MALELITERACYRATE_LABEL",
+      "message": "Male Literacy Rate(%)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_MALEPOPULATION_LABEL",
+      "message": "Male Population",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_POPULATION_LABEL",
+      "message": "Population",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "MYCITY_WORKINGPOPULATION_LABEL",
+      "message": "Working Population(%)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "NEW_PUBLIC_MESSAGE_BUTTON_LABEL",
+      "message": "New Public Message",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_BILL_NO",
+      "message": "BILL NO.:",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_COMMON_CONSUMER_CODE",
+      "message": "Consumer Code. ",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_FAILURE_MESSAGE",
+      "message": "Payment has failed!",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_FAILURE_MESSAGE_DETAIL",
+      "message": "A notification regarding payment failure has been sent to property owner at registered Mobile No.",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_HEADER_CITIZEN",
+      "message": "Payment Details",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_HEADER_EMPLOYEE",
+      "message": "Collection Details",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_MESSAGE_CITIZEN",
+      "message": "Payment has been paid successfully!",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_MESSAGE_DETAIL_CITIZEN",
+      "message": "A notification regarding Payment has been sent to property owner at registered Mobile No.",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_MESSAGE_DETAIL_EMPLOYEE",
+      "message": "A notification regarding Payment Collection has been sent to property owner at registered Mobile No.",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_MESSAGE_EMPLOYEE",
+      "message": "Payment has been collected successfully!",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PAYMENT_RECEIPT_NO",
+      "message": "Payment Receipt No.",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PB_AMRITSAR_REVENUE_SU166",
+      "message": "Mohalla Majoran - Area1",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PB_AMRITSAR_REVENUE_SUN04",
+      "message": "Ajit Nagar - Area1:",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "PT_SEARCH_BUTTON",
+      "message": "SEARCH",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "Public Message Notice",
+      "message": "EVENTS_PUBLIC_MESSAGE_NOTICE_HEADER",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "REPORTS_SEARCH_APPLY_LABEL",
+      "message": "SEARCH",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "REPORTS_SEARCH_RESET_LABEL",
+      "message": "RESET",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "SEARCH_ADDRESS_MAP_PLACEHOLDER",
+      "message": "Search Address",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "STATE_LABEL",
+      "message": "Chandigarh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_AREA",
+      "message": "Chandigarh Administration, India",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_CH",
+      "message": "Chandigarh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_CH_CHANDIGARH",
+      "message": "Chandigarh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_ADAMPUR",
+      "message": "Adampur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_AHMEDGARH",
+      "message": "Ahmedgarh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_AJNALA",
+      "message": "Ajnala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_ALAWALPUR",
+      "message": "Alawalpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_AMARGARH",
+      "message": "Amargarh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_AMLOH",
+      "message": "Amloh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_AMRITSAR",
+      "message": "Amritsar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_ANANDPURSAHIB",
+      "message": "Anandpursahib",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_ARNIWALA",
+      "message": "Arniwala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BADHNIKALAN",
+      "message": "Badhnikalan",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BAGHAPURANA",
+      "message": "Baghapurana",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BALACHAUR",
+      "message": "Balachaur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BALIANWALI",
+      "message": "Balianwali",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BANGA",
+      "message": "Banga",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BANUR",
+      "message": "Banur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BARETA",
+      "message": "Bareta",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BARIWALA",
+      "message": "Bariwala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BARNALA",
+      "message": "Barnala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BASSIPATHANA",
+      "message": "Bassipathana",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BATALA",
+      "message": "Batala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BATHINDA",
+      "message": "Bathinda",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BEGOWAL",
+      "message": "Begowal",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHADAUR",
+      "message": "Bhadaur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHADSON",
+      "message": "Bhadson",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHAGTABHAI",
+      "message": "Bhagtabhai",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHAIROOPA",
+      "message": "Bhairoopa",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHAWANIGARH",
+      "message": "Bhawanigarh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHIKHI",
+      "message": "Bhikhi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHIKHIWIND",
+      "message": "Bhikhiwind",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHOGPUR",
+      "message": "Bhogpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHUCHOMANDI",
+      "message": "Bhuchomandi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BHULATH",
+      "message": "Bhulath",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BILGA",
+      "message": "Bilga",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BOHA",
+      "message": "Boha",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_BUDHLADA",
+      "message": "Budhlada",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_CHAMKAURSAHIB",
+      "message": "Chamkaursahib",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_CHAUNKE",
+      "message": "Chaunke",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_CHEEMA",
+      "message": "Cheema",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DASUYA",
+      "message": "Dasuya",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DERABABANANAK",
+      "message": "Derababananak",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DERABASSI",
+      "message": "Derabassi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DHANAULA",
+      "message": "Dhanaula",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DHARAMKOT",
+      "message": "Dharamkot",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DHARIWAL",
+      "message": "Dhariwal",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DHILWAN",
+      "message": "Dhilwan",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DHURI",
+      "message": "Dhuri",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DINANAGAR",
+      "message": "Dinanagar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DIRBA",
+      "message": "Dirba",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_DORAHA",
+      "message": "Doraha",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_FARIDKOT",
+      "message": "Faridkot",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_FATEHGARHCHURIAN",
+      "message": "Fatehgarhchurian",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_FATEHGARHPANJTOOR",
+      "message": "Fatehgarhpanjtoor",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_FAZILKA",
+      "message": "Fazilka",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_FEROZEPUR",
+      "message": "Ferozepur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GARHDIWALA",
+      "message": "Garhdiwala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GARHSHANKAR",
+      "message": "Garhshankar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GHAGGA",
+      "message": "Ghagga",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GHANAUR",
+      "message": "Ghanaur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GIDDERBAHA",
+      "message": "Gidderbaha",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GONIANA",
+      "message": "Goniana",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GORAYA",
+      "message": "Goraya",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GURDASPUR",
+      "message": "Gurdaspur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_GURUHARSAHAI",
+      "message": "Guruharsahai",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_HANDIAYA",
+      "message": "Handiaya",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_HARIANA",
+      "message": "Hariana",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_HOSHIARPUR",
+      "message": "Hoshiarpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_JAGRAON",
+      "message": "Jagraon",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_JAITU",
+      "message": "Jaitu",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_JALALABAD",
+      "message": "Jalalabad",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_JALANDHAR",
+      "message": "Jalandhar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_JANDIALAGURU",
+      "message": "Jandialaguru",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_JOGA",
+      "message": "Joga",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KAPURTHALA",
+      "message": "Kapurthala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KARTARPUR",
+      "message": "Kartarpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KHAMANO",
+      "message": "Khamano",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KHANAURI",
+      "message": "Khanauri",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KHANNA",
+      "message": "Khanna",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KHARAR",
+      "message": "Kharar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KHEMKARAN",
+      "message": "Khemkaran",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KIRATPUR",
+      "message": "Kiratpur Sahib",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KOTFATTA",
+      "message": "Kotfatta",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KOTHAGURU",
+      "message": "Kothaguru",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KOTISSEKHAN",
+      "message": "Kotissekhan",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KOTKAPURA",
+      "message": "Kotkapura",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KOTSHAMIR",
+      "message": "Kotshamir",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_KURALI",
+      "message": "Kurali",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_LALRU",
+      "message": "Lalru",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_LEHRAGAGA",
+      "message": "Lehragaga",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_LEHRAMOHABBAT",
+      "message": "Lehramohabbat",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_LOHIANKHAS",
+      "message": "Lohiankhas",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_LONGOWAL",
+      "message": "Longowal",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_LUDHIANA",
+      "message": "Ludhiana",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MACHHIWARA",
+      "message": "Machhiwara",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MAHILPUR",
+      "message": "Mahilpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MAJITHA",
+      "message": "Majitha",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MAKHU",
+      "message": "Makhu",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MALERKOTLA",
+      "message": "Malerkotla",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MALLANWALA",
+      "message": "Mallanwala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MALOUD",
+      "message": "Maloud",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MALOUT",
+      "message": "Malout",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MALUKA",
+      "message": "Maluka",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MAMDOT",
+      "message": "Mamdot",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MANDIGOBINDGARH",
+      "message": "Mandigobindgarh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MANDIKALAN",
+      "message": "Mandikalan",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MANSA",
+      "message": "Mansa",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MAUR",
+      "message": "Maur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MEHATPUR",
+      "message": "Mehatpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MEHRAJ",
+      "message": "Mehraj",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MOGA",
+      "message": "Moga",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MOHALI",
+      "message": "Mohali",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MOONAK",
+      "message": "Moonak",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MORINDA",
+      "message": "Morinda",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MUDKI",
+      "message": "Mudki",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MUKERIAN",
+      "message": "Mukerian",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MUKTSAR",
+      "message": "Muktsar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_MULLANPUR",
+      "message": "Mullanpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NABHA",
+      "message": "Nabha",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NADALA",
+      "message": "Nadala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NAKODAR",
+      "message": "Nakodar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NANGAL",
+      "message": "Nangal",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NAROTJAIMALSINGH",
+      "message": "Narotjaimailsingh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NATHANA",
+      "message": "Nathana",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NAWANSHAHR",
+      "message": "Nawanshahr",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NAYAGAON",
+      "message": "Nayagaon",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NIHALSINGHWALA",
+      "message": "Nihalsinghwala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_NURMAHAL",
+      "message": "Nurmahal",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_PATHANKOT",
+      "message": "Pathankot",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_PATIALA",
+      "message": "Patiala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_PATRAN",
+      "message": "Patran",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_PATTI",
+      "message": "Patti",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_PAYAL",
+      "message": "Payal",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_PHAGWARA",
+      "message": "Phagwara",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_PHILLAUR",
+      "message": "Phillaur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_PUNJAB",
+      "message": "Punjab",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_QUADIAN",
+      "message": "Quadian",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAHON",
+      "message": "Rahon",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAIKOT",
+      "message": "Raikot",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAJASANSI",
+      "message": "Rajasansi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAJPURA",
+      "message": "Rajpura",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAMAN",
+      "message": "Raman",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAMDASS",
+      "message": "Ramdass",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAMPURA",
+      "message": "Rampura",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAMPURAPHUL",
+      "message": "Rampuraphul",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_RAYYA",
+      "message": "Rayya",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_ROPAR",
+      "message": "Ropar",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SAHNEWAL",
+      "message": "Sahnewal",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SAMANA",
+      "message": "Samana",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SAMRALA",
+      "message": "Samrala",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SANAUR",
+      "message": "Sanaur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SANGATMANDI",
+      "message": "Sangatmandi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SANGRUR",
+      "message": "Sangrur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SARDULGARH",
+      "message": "Sardulgarh",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SHAHKOT",
+      "message": "Shahkot",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SHAMCHURASI",
+      "message": "Shamchurasi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SIRHIND",
+      "message": "Sirhind",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SRIHARGOBINDPUR",
+      "message": "Srihargobindpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SUJANPUR",
+      "message": "Sujanpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SULTANPURLODHI",
+      "message": "Sultanpurlodhi",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_SUNAM",
+      "message": "Sunam",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_TALWANDIBHAI",
+      "message": "Talwandibhai",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_TALWANDISABO",
+      "message": "Talwandisabo",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_TALWARA",
+      "message": "Talwara",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_TAPA",
+      "message": "Tapa",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_TARNTARAN",
+      "message": "Tarntaran",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_TESTING",
+      "message": "Testing",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_URMARTANDA",
+      "message": "Urmartanda",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_ZIRA",
+      "message": "Zira",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TENANT_TENANTS_PB_ZIRAKPUR",
+      "message": "Zirakpur",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_BUTTON_UPLOAD FILE",
+      "message": "UPLOAD FILE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_LOCALIZATION_APPLICATION_TYPE",
+      "message": "Application Type",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_LOCALIZATION_OWNER_MOBILE",
+      "message": "Owner Mobile",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_LOCALIZATION_OWNER_NAME",
+      "message": "Owner Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_LOCALIZATION_PAYMENT_RECIEPT",
+      "message": "Payment reciept",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_NEW PUBLIC MESSAGE_BUTTON_LABEL",
+      "message": "NEW PUBLIC MESSAGE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_NEW_PUBLIC_MESSAGE_BUTTON_LABEL",
+      "message": "NEW PUBLIC MESSAGE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_TASK_STATUS",
+      "message": "Task Status",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_VIEW_DETAILS",
+      "message": "View Details",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_VIEW_HISTORY",
+      "message": "View History",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TL_WF_NEWTL_REJECT",
+      "message": "Reject",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "TOTAL_PAYABLE",
+      "message": "Total Payable",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ULBGRADE_MUNICIPAL_CORPORATION",
+      "message": "MUNICIPAL CORPORATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ULBGRADE_NP",
+      "message": "MUNICIPAL CORPORATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ULB_MC_CLASS",
+      "message": "MUNICIPAL COUNCIL",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ULB_MUNICIPAL_CORPORATION ",
+      "message": "MUNICIPAL CORPORATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "ULB_NP",
+      "message": "MUNICIPAL CORPORATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "UPDATE_EVENT_LABEL",
+      "message": "Update Event",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "UPDATE_PUBLIC_MESSAGE",
+      "message": "Update Public Message",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_ESCALATED_SLA",
+      "message": "Escalated",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_APPLICATION_NO",
+      "message": "Application No.",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_ASSIGNED_BY",
+      "message": "Assigned By",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_ASSIGNED_TO",
+      "message": "Assigned To",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_CURRENT_OWNER",
+      "message": "Current Owner",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_LOCALITY",
+      "message": "Locality",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_MODULE_SERVICE",
+      "message": "Module/Service",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_SLA_DAYS_REMAINING",
+      "message": "SLA (Days Remaining)",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_STATUS",
+      "message": "Status",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_INBOX_HEADER_TASK_ID",
+      "message": "Task ID",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_MY_WORKLIST",
+      "message": "My Worklist",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_NEWTL_SENDBACK",
+      "message": "SendBack",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_APPROVE",
+      "message": "APPROVE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_APPROVED",
+      "message": "APPROVED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_COMPLETE",
+      "message": "COMPLETE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_COMPLETED",
+      "message": "COMPLETED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_EDIT",
+      "message": "EDIT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_EDITED AT INITIATED",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_EDITED AT INSPECTION",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_EDITED AT REQUEST FOR CLARIFICATION",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_EDITED AT VERIFIED AND FORWARDED",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_EDITED AT VERIFIED AND FORWARDED TO SDO",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_FORWARD FOR COMPLETION",
+      "message": "FORWARD FOR COMPLETION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_FORWARD FOR INSPECTION",
+      "message": "FORWARD FOR INSPECTION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_INITIATED",
+      "message": "INITIATED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_INSPECT",
+      "message": "INSPECT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_INSPECTION",
+      "message": "INSPECTION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_REJECT",
+      "message": "REJECT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_REJECTED",
+      "message": "REJECTED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_REQUEST CLARIFICATION",
+      "message": "REQUEST CLARIFICATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_REQUEST FOR CLARIFICATION",
+      "message": "REQUEST FOR CLARIFICATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_VERIFIED AND FORWARDED",
+      "message": "VERIFIED AND FORWARDED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_VERIFIED AND FORWARDED TO SDO",
+      "message": "VERIFIED AND FORWARDED TO SDO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_VERIFIED FOR CLOSURE",
+      "message": "VERIFIED FOR CLOSURE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_VERIFY AND FORWARD",
+      "message": "VERIFY AND FORWARD",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_VERIFY AND FORWARD TO SDO",
+      "message": "VERIFY AND FORWARD TO SDO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH GREATER THAN 90 CMS_VERIFY FOR CLOSURE",
+      "message": "VERIFY FOR CLOSURE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_APPROVE",
+      "message": "APPROVE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_APPROVED",
+      "message": "APPROVED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_COMPLETE",
+      "message": "COMPLETE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_COMPLETED",
+      "message": "COMPLETED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_EDIT",
+      "message": "EDIT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_EDITED AT INITIATED",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_EDITED AT INSPECTION",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_EDITED AT REQUEST FOR CLARIFICATION",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_EDITED AT VERIFIED AND FORWARDED",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_EDITED AT VERIFIED AND FORWARDED TO SDO",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_FORWARD FOR COMPLETION",
+      "message": "FORWARD FOR COMPLETION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_FORWARDED FOR COMPLETION",
+      "message": "FORWARDED FOR COMPLETION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_INITIATED",
+      "message": "INITIATED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_INSPECT",
+      "message": "INSPECT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_INSPECTION",
+      "message": "INSPECTION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_REJECT",
+      "message": "REJECT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_REJECTED",
+      "message": "REJECTED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_REQUEST CLARIFICATION",
+      "message": "REQUEST FOR CLARIFICATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_REQUEST FOR CLARIFICATION",
+      "message": "REQUEST FOR CLARIFICATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_VERIFIED AND FORWARDED",
+      "message": "VERIFIED AND FORWARDED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_VERIFIED AND FORWARDED TO SDO",
+      "message": "VERIFIED AND FORWARDED TO SDO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_VERIFIED FOR CLOSURE",
+      "message": "VERIFIED FOR CLOSURE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_VERIFY AND FORWARD",
+      "message": "VERIFY AND FORWARD",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_VERIFY AND FORWARD TO SDO",
+      "message": "VERIFY AND FORWARD TO SDO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_PRUNING OF TREES GIRTH LESS THAN OR EQUAL TO 90 CMS_VERIFY FOR CLOSURE",
+      "message": "VERIFY FOR CLOSURE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_APPROVE",
+      "message": "APPROVE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_APPROVED",
+      "message": "APPROVED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_COMPLETE",
+      "message": "COMPLETE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_COMPLETED",
+      "message": "COMPLETED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_EDIT",
+      "message": "EDIT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_EDITED AT INITIATED",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_EDITED AT INSPECTION",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_EDITED AT REQUEST FOR CLARIFICATION",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_EDITED AT VERIFIED AND FORWARDED",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_EDITED AT VERIFIED AND FORWARDED TO SDO",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_FORWARD FOR COMPLETION",
+      "message": "FORWARD FOR COMPLETION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_FORWARD FOR INSPECTION",
+      "message": "FORWARD FOR INSPECTION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_FORWARDED FOR COMPLETION",
+      "message": "FORWARDED FOR COMPLETION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_INITIATED",
+      "message": "INITIATED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_INSPECT",
+      "message": "INSPECT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_INSPECTION",
+      "message": "INSPECTION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_REJECT",
+      "message": "REJECT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_REJECTED",
+      "message": "REJECTED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_REQUEST CLARIFICATION",
+      "message": "REQUEST CLARIFICATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_REQUEST FOR CLARIFICATION",
+      "message": "REQUEST FOR CLARIFICATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_VERIFIED AND FORWARDED",
+      "message": "VERIFIED AND FORWARDED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_VERIFIED AND FORWARDED TO SDO",
+      "message": "VERIFIED AND FORWARDED TO SDO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_VERIFIED FOR CLOSURE",
+      "message": "VERIFIED FOR CLOSURE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_VERIFY AND FORWARD",
+      "message": "VERIFY AND FORWARD",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_VERIFY AND FORWARD TO SDO",
+      "message": "VERIFY AND FORWARD TO SDO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF DEAD/DANGEROUS/DRY TREES_VERIFY FOR CLOSURE",
+      "message": "VERIFY FOR CLOSURE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_APPROVE",
+      "message": "APPROVE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_APPROVED",
+      "message": "APPROVED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_COMPLETE",
+      "message": "COMPLETE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_COMPLETED",
+      "message": "COMPLETED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_EDIT",
+      "message": "EDIT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_EDITED AT INITIATED",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_EDITED AT INSPECTION",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_EDITED AT REQUEST FOR CLARIFICATION",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_EDITED AT VERIFIED AND FORWARDED",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_EDITED AT VERIFIED AND FORWARDED TO SDO",
+      "message": "EDITED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_FORWARD FOR COMPLETION",
+      "message": "FORWARD FOR COMPLETION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_FORWARD FOR INSPECTION",
+      "message": "FORWARD FOR INSPECTION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_FORWARDED FOR COMPLETION",
+      "message": "FORWARDED FOR COMPLETION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_INITIATED",
+      "message": "INITIATED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_INSPECT",
+      "message": "INSPECT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_INSPECTION",
+      "message": "INSPECTION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_REJECT",
+      "message": "REJECT",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_REJECTED",
+      "message": "REJECTED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_REQUEST CLARIFICATION",
+      "message": "REQUEST CLARIFICATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_REQUEST FOR CLARIFICATION",
+      "message": "REQUEST FOR CLARIFICATION",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_VERIFIED AND FORWARDED",
+      "message": "VERIFIED AND FORWARDED",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_VERIFIED AND FORWARDED TO SDO",
+      "message": "VERIFIED AND FORWARDED TO SDO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_VERIFIED FOR CLOSURE",
+      "message": "VERIFIED FOR CLOSURE",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_VERIFY AND FORWARD",
+      "message": "VERIFY AND FORWARD",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_REMOVAL OF GREEN TREES_VERIFY AND FORWARD TO SDO",
+      "message": "VERIFY AND FORWARD TO SDO",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_TOTAL_NEARING_SLA",
+      "message": "Nearing SLA",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_TOTAL_OVER_SLA",
+      "message": "Over SLA",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "WF_TOTAL_TASK",
+      "message": "Total Task",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.card",
+      "message": "Card",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.cash",
+      "message": "Cash",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.channel",
+      "message": "Collection Channel",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.cheque",
+      "message": "Cheque",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.dd",
+      "message": "DD",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.fromdate",
+      "message": "From Date",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.mode",
+      "message": "Payment Mode",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.noofreceipts",
+      "message": "No of receipts",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.online",
+      "message": "Online",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.service",
+      "message": "Service Category",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.service.ulb",
+      "message": "ULB",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.serviceResult",
+      "message": "Service",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.taxcollector",
+      "message": "Tax Collector Name",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.todate",
+      "message": "To Date",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.total",
+      "message": "Total",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.transactions",
+      "message": "No of Transactions",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    },
+    {
+      "code": "reports.common.CollectionRegister.ulb",
+      "message": "ULB",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+    }
+  ]
